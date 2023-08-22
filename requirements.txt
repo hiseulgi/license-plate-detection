@@ -1,8 +1,6 @@
-easyocr==1.7.0
-imutils==0.5.4
-matplotlib==3.7.1
-numpy==1.24.3
-numpy==1.23.5
-opencv_contrib_python==4.8.0.74
-opencv_python==4.8.0.74
-opencv_python_headless==4.8.0.76
+# imutils==0.5.4
+# opencv_contrib_python==4.8.0.74
+# opencv_python==4.8.0.74
+# imutils==0.5.4
+imutils
+opencv_python_headless
